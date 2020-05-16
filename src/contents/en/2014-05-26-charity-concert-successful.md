@@ -16,7 +16,7 @@ Special THANK YOU list:
 
 And THANK YOU to you all, who came and shown support for our cause.
 
-\[caption id="attachment\_1322" align="alignnone" width="300"\][![Žvau pred Cerkvijo Marijinega oznanjenja v Adergasu; Avtor fotografije: Xsaver Šinkar](images/20140525_photo_ksaversinkar_dobrodelni_koncert_charity_rally_mongolija-IMG_0045-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/05/20140525_photo_ksaversinkar_dobrodelni_koncert_charity_rally_mongolija-IMG_0045.jpg) Author: Ksaver Šinkar\[/caption\]
+![Žvau pred Cerkvijo Marijinega oznanjenja v Adergasu; Avtor fotografije: Xsaver Šinkar](../images/20140525_photo_ksaversinkar_dobrodelni_koncert_charity_rally_mongolija-IMG_0045.jpg)
 
 And from here on, with full steam ahead.
 

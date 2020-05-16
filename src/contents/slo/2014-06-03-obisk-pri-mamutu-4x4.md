@@ -10,10 +10,10 @@ Prvič sem se pri njih oglasil dva meseca nazaj, še ves zelen. Zdaj, se mi zdi,
 
 Igor in Blanka, še enkrat najlepša hvala in vse dobro na pohajkovanju po Avstraliji.
 
-\[caption id="attachment\_1392" align="alignnone" width="300"\][![mamut](images/mamut-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/mamut.jpg) Prodajalna Mamut 4x4, raj za sladokusce.\[/caption\]
+![mamut](../images/mamut.jpg) Prodajalna Mamut 4x4, raj za sladokusce.
 
  
 
 Takoj zatem pa naju je poklical še plezalec Luka Plut, ki je že potoval po Kirgiziji in se ravno odpravlja na naslednjo alpinistično odpravo v Indijo. Posodil nama je Lonely planet in podaril lopato in nekaj ostalih kosov opreme. Luka, vse dobro in se vidimo septembra, vrneva Lonelyja. Ostali le poglejte na spisek opreme, do konca tedna bova oblikovala končni seznam potrebščin.
 
-\[caption id="attachment\_1381" align="alignnone" width="300"\][![IMG_20140530_213724](images/IMG_20140530_213724-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140530_213724.jpg) Oprema, pridobljena v soboto\[/caption\]
+![IMG_20140530_213724](../images/IMG_20140530_213724.jpg) Oprema, pridobljena v soboto

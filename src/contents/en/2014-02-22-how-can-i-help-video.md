@@ -12,7 +12,7 @@ All recording and postproduction was done at [JS-Design](http://www.js-design.s
 
  
 
-<iframe src="//www.youtube.com/embed/Y0BgGd503TA" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed/Y0BgGd503TA" width="900" height="506" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 **Donation of the vehicle to a local community can in our opinion really provides huge impact towards better life. Local doctor gets big range and improves time efficiency, and at once he can deliver more good from first bigger settlement as it was possible before that. Same goes with mail, not to mention that once or twice a week he can take children from the village to school. With appropriate organization life before and after donation of the vehicle cannot really be compared.**
 
@@ -28,7 +28,7 @@ For everyone who decides to support this project, you can transfer donation stra
 
 Please don't forget to fill code CHAR that stands for charity, and send us an email with your data (name, surname, full address and donation) to [donacije.gremovmongolijo@gmail.com](mailto:donacije.gremovmongolijo@gmail.com). We would like to double check everyone and make sure that no-one will be left behind when we will send rewards for your participation. **Please note that we won't show any sum of donations received.**
 
-[![08042014_SEPA_case](images/08042014_SEPA_case.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/02/08042014_SEPA_case.jpg)
+![08042014_SEPA_case](../images/08042014_SEPA_case.jpg)
 
 ### 3\. PayPal
 

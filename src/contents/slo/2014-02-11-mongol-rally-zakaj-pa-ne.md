@@ -4,7 +4,7 @@ date: "2014-02-11"
 lang: "slo"
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/4VwacRktz2c" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="506" src="//www.youtube.com/embed/4VwacRktz2c" frameborder="0" allowfullscreen></iframe>
 
  
 

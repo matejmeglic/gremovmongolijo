@@ -10,7 +10,7 @@ Predstavljava vam promocijski videoposnetek, ki obenem pomeni tudi začetek zbir
 
 Naj poveva, da so za snemanje in montažo videa poskrbeli pri [JS-Design](http://www.js-design.si/ "JS-Design") in [Just Cate](http://www.just-cate.com/ "Just Cate"), navdušili so naju in nedvomno bodo tudi vas, za glasbo v ozadju je poskrbela [glasbena skupina Čedahuči.](http://cedahuci.com/ "Čedahuči") Priporočava in hvaliva do neba, brez vašega doprinosa nama ne bi uspelo. Hja, seveda se pustijo najeti za družinska, poročna in tudi vsa ostala fotografiranja, snemanja in nastope.
 
-<iframe src="//www.youtube.com/embed/6eadYoYpBfY" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed/6eadYoYpBfY" width="900" height="506" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 **Donacija vozila lokalni skupnosti zares lahko pripomore k njenemu razvoju. Lokalnemu zdravniku se kar naenkrat močno poveča domet in izboljša odzivnost, obenem pa lahko iz prvega večjega mesta pripelje bistveno več dobrin, kot prej. Enako je s pošto, v šolo pa spotoma lahko odpelje tudi vse otroke. Z ustrezno organizacijo je razlika v življenju pred/po avtomobilu brez primere.**
 

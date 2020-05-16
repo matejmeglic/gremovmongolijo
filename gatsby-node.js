@@ -39,7 +39,6 @@ exports.createPages = async ({ graphql, actions }) => {
 var posts = result.data.allMarkdownRemark.edges
 posts.forEach((post, index) => {
   
-console.log(post.node.fields.slug);
 
 
   createPage({
@@ -48,12 +47,11 @@ console.log(post.node.fields.slug);
     context: {
       slug: post.node.fields.slug,
       previous: index === 0 ? null : posts[index-1].node,
-      previousLang: post.node.frontmatter.lang,
       next: index === (posts.length -1) ? null : posts[index+1].node,
-      nextLang: post.node.frontmatter.lang,
       title: post.node.frontmatter.title
     },
-  })
+  }
+  )
 })
 
 
@@ -85,24 +83,16 @@ const resultEn = await graphql(`
 postsEn = resultEn.data.allMarkdownRemark.edges
 postsEn.forEach((post, index) => {
   
-console.log(post.node.fields.slug);
-
-
   createPage({
     path: post.node.fields.slug,
     component: path.resolve(`./src/templates/blog-post.js`),
     context: {
       slug: post.node.fields.slug,
       previous: index === 0 ? null : postsEn[index-1].node,
-      previousLang: post.node.frontmatter.lang,
       next: index === (postsEn.length -1) ? null : postsEn[index+1].node,
-      nextLang: post.node.frontmatter.lang,
       title: post.node.frontmatter.title
     },
   })
 })
-
-
-
 
 }

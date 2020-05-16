@@ -10,6 +10,6 @@ Right now we are testing the appliance and we are parking our car on a different
 
 Of course we will bring device back to Slovenia and returned it. It is a nonsence having that installed and not telling them because... well, they would know it right away. :)
 
-[![IMG_20140609_155221](images/IMG_20140609_155221-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140609_155221.jpg) [![IMG_20140609_155205](images/IMG_20140609_155205-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140609_155205.jpg) [![IMG_20140609_155138](images/IMG_20140609_155138-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140609_155138.jpg)
+![IMG_20140609_155221](../images/IMG_20140609_155221.jpg)![IMG_20140609_155205](../images/IMG_20140609_155205.jpg)![IMG_20140609_155138](../images/IMG_20140609_155138.jpg)
 
 We would like to thank miss Maja for all your work, mister Grega for programming, mister Djordano for installation and everyone else, who participated in the process.

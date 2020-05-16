@@ -8,14 +8,14 @@ Po kratki noči (zaradi urejana bloga in odgovarjanja na maile), naju v jutro po
 
 Zadnji del poti nas vodi po dolini, ki jo je izoblikovala reka, zato tudi cesta razigrano vijuga. Našo hitrost zmanjšajo naselja ob poti in prečkanja živali, ki se ne dajo motiti in dajejo vtis, da so vladarji cest. Nadmorska višina se počasi dviga in s tem sovpadajo tudi vedno nižje temperature. Ozka dolina gosti nekaj družin, ki kampirajo, nekajkrat pa naletimo tudi na rafterje, v pripravah na rečni izziv. Katja doživi prvo izven slovensko izkušnjo s policistom, ki ga je premagala radovednost.
 
-\[caption id="attachment\_1936" align="alignnone" width="300"\][![DSC_0037 (4)](images/DSC_0037-4-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/DSC_0037-4.jpg) V senci še večjega avta :)\[/caption\]
 
-[![DSC_0019](images/DSC_0019-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/DSC_0019.jpg) [![IMG_9648](images/IMG_9648-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9648.jpg)
 
-Kosilo si privoščimo na rečnem nabrežju, ki poleg nas gosti še nekaj ljudi in na žalost tudi smeti.  A ni ga čez lep razgled.
+![DSC_0019](../images/DSC_0019.jpg)![IMG_9648](../images/IMG_9648.jpg)![DSC_0037 (4)](../images/DSC_0037-4.jpg) V senci še večjega avta :)
 
-[![DSC_0031](images/DSC_0031-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/DSC_0031.jpg) [![DSC_0032](images/DSC_0032-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/DSC_0032.jpg) [![IMG_9612](images/IMG_9612-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9612.jpg) [![IMG_9616](images/IMG_9616-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9616.jpg)
+Kosilo si privoščimo na rečnem nabrežju, ki poleg nas gosti še nekaj ljudi in na žalost tudi smeti. A ni ga čez lep razgled.
 
-Prevozimo še kar lep kos poti in ko se sonce  začne pripravljati na odpravo na zahod, si ob reki najdemo majhen košček kamperskega raja. Med drevesi, s postavljenima šotoroma, skuhamo večerjo, izkoristimo vodni vir za pomivanje posode, zanetimo taborni ogenj, ki nas prijetno greje in si pripovedujemo zgodbe.
+![DSC_0031](../images/DSC_0031.jpg)![DSC_0032](../images/DSC_00322.jpg)![IMG_9612](../images/IMG_9612.jpg)![IMG_9616](../images/IMG_9616.jpg)
 
-[![IMG_9660](images/IMG_9660-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9660.jpg) [![IMG_9709](images/IMG_9709-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9709.jpg) [![IMG_9668](images/IMG_9668-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9668.jpg) [![IMG_9683](images/IMG_9683-300x200.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/08/IMG_9683.jpg)
+Prevozimo še kar lep kos poti in ko se sonce  začne pripravljati na odpravo na zahod, si ob reki najdemo majhen košček kamperskega raja. Med drevesi, s postavljenima šotoroma, skuhamo večerjo, izkoristimo vodni vir za pomivanje posode, zanetimo taborni ogenj, ki nas prijetno greje in si pripovedujemo zgodbe. 
+
+![IMG_9660](../images/IMG_9660.jpg)![IMG_9709](../images/IMG_9709.jpg)![IMG_9668](../images/IMG_9668.jpg)![IMG_9683](../images/IMG_9683.jpg)

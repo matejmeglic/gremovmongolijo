@@ -8,4 +8,4 @@ No, na velikonočno soboto so naju presenetili iz uredništva spletnega portala 
 
 Članek na: [http://www.avtomanija.com/default.asp?rb=3&id=11837](http://www.avtomanija.com/default.asp?rb=3&id=11837 "Avtomanija.com - članek")
 
-[![19042014_clanek_avtomanija_com_ppirkovic](images/19042014_clanek_avtomanija_com_ppirkovic.jpg)](http://www.avtomanija.com/default.asp?rb=3&id=11837 "Avtomanija.com - Peter Pirkovič")
+![19042014_clanek_avtomanija_com_ppirkovic](../images/19042014_clanek_avtomanija_com_ppirkovic.jpg)

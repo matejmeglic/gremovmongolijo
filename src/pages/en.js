@@ -33,7 +33,11 @@ export default function Home({data}) {
                   — {node.frontmatter.date}
                 </span>
               </h3>
-              <p>{node.excerpt}</p>
+              <p 
+              css={css`
+              text-align: justify;
+            `}
+              >{node.excerpt}</p>
               </Link>
             
             </div>
@@ -55,7 +59,7 @@ export const query = graphql`
             date(formatString: "DD MMMM, YYYY")
             lang
           }
-          excerpt
+          excerpt(pruneLength: 500)
           fields {
             slug
           }

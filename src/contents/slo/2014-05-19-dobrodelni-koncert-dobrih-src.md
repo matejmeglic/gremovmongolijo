@@ -16,6 +16,6 @@ Združila sva vse, in pripravila nastop, ki se z vidika kvalitete ob bok postavl
 
 [Povezava do facebook dogodka.](https://www.facebook.com/events/392190417590888/?ref_newsfeed_story_type=regular&source=1 "FB Event")
 
-[![memoriam-](images/memoriam--200x300.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/05/memoriam-.jpg) vir: [http://www.kudcerkno.si/](http://www.kudcerkno.si/17-vsebina/novice/422-izjemen-uspeh-in-memoriam-v-sodelovanju-s-kud-cerkno.html)
+![memoriam-](../images/memoriam-.jpg) vir: [http://www.kudcerkno.si/](http://www.kudcerkno.si/17-vsebina/novice/422-izjemen-uspeh-in-memoriam-v-sodelovanju-s-kud-cerkno.html)
 
 Kaj pa to pomeni z vidika organizacije? Sledi nov prispevek. Na koncu vas vse lepo povabim v najinem imenu, NE BO VAM ŽAL.

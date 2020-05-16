@@ -10,7 +10,7 @@ Because it is a Charity concert, you probably have 0 budget. And because of that
 
 Where to set a concert was no question. Adergas Church is so spacious and acoustic and has hosted such events before, so it was choice number one. Priest Slavko Kalan took care about parking spaces, sound system and number of seats. For every one of listeners we will find space to seat and enjoy in divine music.
 
-\[caption id="" align="alignnone" width="900"\]![](images/512030490.jpg) Adergas Church / source: http://www.slo-foto.net/modules/Galerija/data/media/10/512030490.jpg\[/caption\]
+![s1](../images/512030490.jpg) Adergas Church / source: http://www.slo-foto.net/modules/Galerija/data/media/10/512030490.jpg
 
 Then it was the promotion, so we had transformed into postmen and use sunny days and deliver over 2000 flyers/personal invitations to nearby villages and settlements. We also occupied local information tables with over 50 posters. We had four interviews and 6 radio stations delivered word about our concert. We have to put a special shoutout to mayor of Cerklje na Gorenjskem, mister Franc Čebulj, who delivered special over-road sign that informed public about our event.
 

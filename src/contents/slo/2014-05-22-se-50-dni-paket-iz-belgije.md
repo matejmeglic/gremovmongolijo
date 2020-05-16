@@ -6,4 +6,4 @@ lang: "slo"
 
 Danes je prispel paket iz Belgije..
 
-<iframe src="//www.youtube.com/embed/tt8PoHJOy7w" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed/tt8PoHJOy7w" width="900" height="506" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

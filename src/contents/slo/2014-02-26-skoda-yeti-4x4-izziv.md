@@ -12,4 +12,4 @@ Izziv je potekal v štirih prvinah: 1) Vožnja po poligonu za motokros s Škodo
 
 Izkušnja nora, želela bi si pa še malo dežja. Igor in njegovi iz [Mamuta 4x4](mamut4x4.com/ "Mamut 4x4") so se zares izkazali.
 
-[![IMG_20140426_115800](images/IMG_20140426_115800-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/04/IMG_20140426_115800.jpg) [![IMG_20140426_115532](images/IMG_20140426_115532-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/04/IMG_20140426_115532.jpg) [![IMG_20140426_112807](images/IMG_20140426_112807-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/04/IMG_20140426_112807.jpg)
+![IMG_20140426_115800](../images/IMG_20140426_115800.jpg)![IMG_20140426_115532](../images/IMG_20140426_115532.jpg)![IMG_20140426_112807](../images/IMG_20140426_112807.jpg)

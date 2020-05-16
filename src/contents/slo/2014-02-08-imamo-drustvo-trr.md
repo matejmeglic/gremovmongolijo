@@ -12,4 +12,4 @@ Važno je, da zdaj vse skupaj deluje in, da se obeta nekaj bolj mirnih noči z v
 
 Takoj napišemo, da bo objav v naslednjih dneh nekaj več, jih bomo pa grupirali tako, da ne bomo preveč nadležni. :) Zdaj se končno lahko posvetimo naslednji stopnji, zbiranju sredstev in nakupu avtomobila. Boste zraven? Se bo izšlo, kot na fotografiji?
 
-[![IMG_0859_small](images/IMG_0859_small.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/04/IMG_0859_small.jpg)
+![IMG_0859_small](../images/IMG_0859_small.jpg)

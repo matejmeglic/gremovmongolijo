@@ -9,7 +9,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  console.log(pageContext);
+
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -33,6 +33,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.date}
           </p>
         </header>
+       
+
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -40,8 +42,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         />
 
-
-      <nav>
+<nav>
         <ul
           style={{
             display: `flex`,
@@ -69,6 +70,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
         </ul>
       </nav>
+     
     </Layout>
   )
 }

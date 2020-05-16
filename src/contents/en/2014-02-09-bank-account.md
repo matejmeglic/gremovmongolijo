@@ -12,4 +12,4 @@ More stuff coming soon, still lots of things to do this week, and we would real
 
 Stay tuned for more stories from FENNECteam Mongolia.
 
-[![IMG_0859_small](images/IMG_0859_small.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/04/IMG_0859_small.jpg)
+![IMG_0859_small](../images/IMG_0859_small.jpg)

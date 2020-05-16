@@ -8,6 +8,6 @@ Pri naših partnerjih [Sledenje](http://sledenje.com/ "Sledenje") in [Monolit](h
 
 Zadevo bova po koncu odprave prinesla nazaj v Slovenijo in jo seveda vrnila, saj bi z nadaljno uporabo oni vsak dan vedeli, kje sva. To je pa tako, kot če bi nekomu odtujil telefon, potem bi ga pa klical, da bi mu sporočil svojo lokacijo. :)
 
-[![IMG_20140609_155221](images/IMG_20140609_155221-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140609_155221.jpg) [![IMG_20140609_155205](images/IMG_20140609_155205-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140609_155205.jpg) [![IMG_20140609_155138](images/IMG_20140609_155138-300x225.jpg)](http://gremovmongolijo.com/wp-content/uploads/2014/06/IMG_20140609_155138.jpg)
+![IMG_20140609_155221](../images/IMG_20140609_155221.jpg)![IMG_20140609_155205](../images/IMG_20140609_155205.jpg)![IMG_20140609_155138](../images/IMG_20140609_155138.jpg)
 
 Najlepša hvala gospe Maji za ves angažma, gospodu Gregu za programiranje, gospodu Djordanu za instalacijo in vsem ostalim, ki ste sodelovali v procesu.
