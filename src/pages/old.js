@@ -9,8 +9,8 @@ export default function Home({data}) {
       <Layout>
         <div>
             <div>
-           <a href="">Poslovni načrt projekta.</a> <br /><br />
-           <a href="">Statut HD Gremo v Mongolijo</a> <br /><br />
+           <a href="https://github.com/matejmeglic/gremovmongolijo/raw/master/src/contents/misc/Mongolia_2014BPv11.pdf">Poslovni načrt projekta.</a> <br /><br />
+           <a href="https://github.com/matejmeglic/gremovmongolijo/raw/master/src/contents/misc/27032014_Statut_final.pdf">Statut HD Gremo v Mongolijo</a> <br /><br />
            </div> 
            {data.allMarkdownRemark.edges.map(({ node }) => (
             
