@@ -24,7 +24,7 @@ export default function Layout({ children }) {
         max-width: 950px;
         padding: ${rhythm(2)};
         padding-top: ${rhythm(1.5)};
-      `}
+        `}
     >
       <Link to={`/`}>
         <h3
@@ -36,6 +36,14 @@ export default function Layout({ children }) {
         >
           {data.site.siteMetadata.title}
         </h3>
+      </Link>
+      <Link
+        to={`/old/`}
+        css={css`
+          float: right; margin-left:10px;
+        `}
+      >
+        ...
       </Link>
       <Link
         to={`/en/`}
@@ -53,6 +61,7 @@ export default function Layout({ children }) {
       >
         SLO
       </Link>
+
       {children}
     </div>
   )

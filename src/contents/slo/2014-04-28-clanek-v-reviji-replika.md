@@ -10,4 +10,4 @@ lang: "slo"
 
 Rezultat? [Tukaj je, preberite ga](http://revija-replika.si/avanturizem-s-pridihom-dobrodelnosti-gremo-v-mongolijo/ "Revija Replika").
 
-<iframe src="http://revija-replika.si/avanturizem-s-pridihom-dobrodelnosti-gremo-v-mongolijo/" width="800" height="1500"></iframe>
+
