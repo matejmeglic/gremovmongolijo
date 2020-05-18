@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Gremo v Mongolijo 2014`,
+    title: `Gremo v Mongolijo - Mongolia Charity Rally 2014`,
   },
   plugins: [
     {

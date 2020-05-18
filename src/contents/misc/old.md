@@ -1,6 +1,5 @@
 ---
-title: "Informacije s stare spletne strani"
-date: "2014-02-01"
+title: "INFORMACIJE S STARE SPLETNE STRANI, KI NE SODIJO V BLOG"
 lang: "old"
 attachments:
   - "..../public/Mongolia_2014BPv11.pdf"
@@ -119,3 +118,76 @@ Pod okriljem organizacije je tudi projekt Charity Rallies v Mongolijo, Tajikista
 <p>&nbsp;</p>
 <p><a title="Potnik.si - revija za popotnike" href="http://www.potnik.si/" target="_blank">&nbsp;</a></p>
 </div>
+
+
+Donacija vozila lokalni skupnosti zares lahko pripomore k njenemu razvoju. Lokalnemu zdravniku se kar naenkrat močno poveča domet in izboljša odzivnost, obenem pa lahko iz prvega večjega mesta pripelje bistveno več dobrin, kot prej. Enako je s pošto, v šolo pa spotoma lahko odpelje tudi vse otroke. Z ustrezno organizacijo je razlika v življenju pred/po avtomobilu brez primere.
+
+### KAKO PODPRETI PROJEKT?
+1. Običajna pot
+Donacije seveda najrajši pobirava osebno, saj se s tem izognemo nepotrebnim dodatnim stroškom plačil transakcij. Vprašajte naju in naju pocukajte za rokav. – brez skrbi, vse bo transparentno, denar pa takoj nakazan na bančni račun, urejeno pa je tudi dovoljenje Upravne enote za pobiranje donacij.
+
+2. Nakazilo na TRR
+Za vse, ki se odločite podpreti ta projekt preko nakazila na TRR Humanitarnega društva Gremo v Mongolijo, je na prvi strani portala Gremo v Mongolijo prikazan pravilno izpolnjen SEPA plačilni nalog (ne pozabite na kodo CHAR, ki označuje nakazilo v dobrodelne namene, pošljite tudi vaš e-mail na donacije.gremovmongolijo@gmail.com in pripišite ime, priimek, polni naslov in znesek donacije za dvojno preverjanje, da vam lahko pošljemo izbrano simbolično nagrado). Zneski ne bodo prikazani nikjer.
+
+3. PayPal
+POMEMBNO: Prosimo, da platformo PayPal pa uporabljajte le v skrajni sili, ker zaenkrat zaračunavajo 8%+0,30 EUR na transakcijo, kar je občutno preveč glede na to, da gre za dobrodelni projekt. Delava na tem.
+
+4. Justgiving direktno nakazilo GO-HELP
+Ste eden od tistih Nejevernih Tomažev, ki pravi, da ne bo plačeval dopusta, da pa drugače je dobrodelen? Držite besedo? No, tukaj je izziv posebej za vas; vsaka ekipa mora zbrati vsaj obvezno donacijo 1000 GBP, da se sploh lahko udeleži Mongol Charity Rallyja. Prav za to priložnost smo za vas uredili Justgiving stran FENNECteam Mongolia 2014. Na tej strani prispevate sredstva in podprete neposredno organizacijo GO-HELP, gre za direktno bremenitev vaše kreditne/debetne kartice. Seveda nam vseeno pošljite e-mail z imenom, priimkom in polnim naslovom na  donacije.gremovmongolijo@gmail.com z vašimi podatki, da vam lahko pošljemo ustrezno simbolično nagrado.
+
+V kolikor bodo po nakupu avtomobila in opreme za odpravo ostala sredstva iz Crowdfundinga, jih bova nakazala organizaciji GO-HELP.
+
+### NE ŽELIM OMEMBE SVOJEGA IMENA, RAD PA BI SODELOVAL?
+Nič lažjega, še vedno lahko sodelujemo. Ob prispevku se sicer avtomatično strinjate z omembo vašega imena na koncu projekta, a če si tega ne želite, pošljite e-mail na donacije.gremovmongolijo@gmail.com, v zadevo napišite vaše ime in priimek in zvezdico, in uporabili bomo samo prvo črko imena, ter zadnjo črko priimka, vmes pa napisali zvezdice. Zneski ne bodo prikazani.
+
+5. Dobra beseda šteje dvojno
+Grozno si želite pomagati, vendar vam trenutna situacija tega ne omogoča. Ni problema, projekt bo odprt še vsaj za 3 mesece po izvedbi, tako da imate dovolj časa. Prosimo pa vas, delite naše strani preko spletnih omrežij. Lahko nam prilepite tudi kakšno izmed dobrih misli, pošljete komentar ali e-mail. Veseli smo čisto vsega. Hvala vam za to.
+
+
+### PRAVILA NAGRADNEGA CROWDFUNDINGA
+#### ZASEBNIKI
+Fizične osebe darujejo sredstva za sofinanciranje odprave, urejanje viz in nakup opreme ter bencina. V zameno v odvisnosti od darovanih sredstev se donatorjem pošlje zahvalo v skladu z darovanim zneskom. Fizične osebe lahko darujejo tudi stvari, ki se nahajajo na spisku potrebščin na spletni strani. Vsaka donacija se zabeleži na spletni strani s kraticami imena in priimka, z vsako donacijo pa prejmete našo večno hvaležnost.
+
+- Do 5 EUR	Najlepša hvala za podporo, ker mislite dobro.
+- 10 EUR	Pošljemo fizično fotografijo iz potovanja 10x15cm po potovanju.
+- 20 EUR	Na potovanju se fotografiramo z imenom donatorja in pošljemo 10x15cm fotografijo po potovanju.
+- 35 EUR	Video-frik: Na potovanju posnamemo kratek video donatorja in objavimo poseben prispevek za vas.
+- 50 EUR	Umetnik: Ste fotograf, slikar ali umetnik? Ali pa boste to še postali. Na zadnji strani avtomobila bomo pripravili zbirko del, kjer bo prostor tudi za vas. Pošljete nam svoje delo v digitalni obliki, mi pa ga za vas popeljemo na potovanje vse do Mongolije.
+- 100 EUR	Zlati sponzor: Posebna zahvala v najavni in odjavni špici dokumentarnega filma, omemba kot posebnega donatorja na vseh dogodkih, posebno vabilo na start, posebna objava na blogu in fotografija posebej za vas.
+- 250 EUR	Prvi na zvezi: Kot donacija 100 EUR in klic iz odprave. Ekipa vas pokliče preko dogovorjenega   kanala in vam iz prve roke poroča o izkušnjah, ki so jih doživeli. Prinesemo vam tudi paketek peska iz Kazahstanskih step.
+- 500 EUR	Postanite režiser odprave: Najdite zanimivost, točko, ki vam veliko pomeni, za katero bi radi,   da jo ekipa obišče in tam bomo, da se vam zahvalimo za vaše veliko srce. Točka ne sme odstopati za več kot 200km iz začrtane poti in mora biti dogovorjena pred tekmovanjem. Po   tekmovanju vam izročimo fotografijo z okvirjem, potrudimo pa se tudi, da to posebno mesto vključimo v dokumentarni film. Prinesemo vam tudi paketek peska iz mongolskih step.
+- 750+ EUR	Dirigent za en dan; ekipa se posvetuje z vami o vaših željah in pričakovanjih odprave, sami si   izberete nagrado v okviru zmožnosti ekipe, pred odpravo se pripeljemo do vas in preživimo dan z vami ter vam pripravimo izlet po Sloveniji.
+V kolikor imate svoje predloge ali dodatne zahteve, vam bomo več kot z veseljem prisluhnili in se po najboljših močeh potrudili najti skupni jezik v uresničevanju našega poslanstva.
+
+#### PODJETJA
+Podjetja lahko darujejo sredstva postanejo donatorji ali sponzorji projekta podobno, kot fizične osebe. Glavni delež gre za nakup in servisiranje avtomobila, prav tako za nakup nadomestnih delov. Pravne osebe lahko darujejo tudi stvari, ki so na spisku potrebščin na spletni strani. Vsaka donacija se zabeleži na spletni strani, pridobite pa tudi našo večno hvaležnost in dober glas.
+
+- Do 50 EUR	Najlepša hvala za podporo, ker mislite dobro!  Po potovanju vam pošljemo zahvalo.
+- 100 EUR	Nalepka z logotipom podjetja v velikosti max 10x20cm na stranici avtomobila in podpisana   fotografija v velikosti 20x30cm.
+- 250 EUR	Nalepka z logotipom podjetja v velikosti max 10x20cm na levi in desni stranici avtomobila in   podpisana fotografija v velikosti 20x30cm.
+- 500 EUR	Nalepka z logotipom podjetja v velikosti max 20x30cm na prednji strani avtomobila in podpisana fotografija v velikosti 20x30cm + posebna zahvala v najavni in odjavni špici dokumentarnega film.
+- 1000 EUR	Nalepka z logotipom podjetja v velikosti max 20x30cm na stranici avtomobila in podpisana   fotografija v velikosti 20x30cm + posebno povabilo na start + posebna zahvala v najavni in odjavni špici dokumentarnega filma.
+- 2000 EUR	Nalepka z logotipom podjetja v velikosti max 30x40cm na stranicah avtomobila in podpisana   fotografija z vašim logotipom in imenom v velikosti 30x40cm + objava fotografije na spletu s posebno zahvalo + posebno povabilo na start + posebna zahvala v najavni in odjavni špici dokumentarnega filma + izvedba potopisnega predavanja v vašem kraju po dogovoru.
+- 3000 EUR	Vaše ime in logotip nalepimo na  vse štiri strani avtomobila in podpisana fotografija z vašim logotipom in imenom v velikosti 30x40cm + povabilo na start + posebna zahvala v najavni in odjavni špici dokumentarnega filma + predstavitev ekipe vašemu podjetju pred potovanjem.
+- 5000 EUR	Ime ekipe preimenujemo v ime vašega podjetja, ime in logotip nalepimo na  vse štiri strani avtomobila in podpisana fotografija z vašim logotipom in imenom v velikosti 30x40cm + vabilo na start + posebna zahvala v najavni in odjavni špici dokumentarnega filma + predstavitev ekipe vašemu podjetju pred potovanjem.
+- 7500 EUR	Generalni sponzor: Avtomobil prebarvamo v barve vašega CGPja (v kolikor je to mogoče), vaše ime in logotip nalepimo na  vse štiri strani avtomobila in podpisana fotografija z vašim logotipom in imenom v velikosti 30x40cm + vabilo na start+ posebna zahvala v najavni in odjavni špici   dokumentarnega filma + predstavitev ekipe vašemu podjetju pred potovanjem.
+ 
+
+V vse pakete se vključuje tudi objava na spletni strani, na vseh komunikacijskih kanalih, napis v odjavni špici dokumentarnega filma pod rubriko »Brez vas nam ne bi uspelo«, napoved na vseh dogodkih.
+
+V kolikor imate svoje predloge ali dodatne zahteve, vam bomo z veseljem prisluhnili in se po najboljših močeh potrudili najti skupni jezik v uresničevanju našega skupnega poslanstva.
+
+### SPONZORIRANJE OPREME
+Potrebovali bomo nekaj opreme, ki jo bomo po koncu odprave vrnili. Objavljena bo na Neskončnem spisku v posebnem razdelku, seveda pa smo prilagodljivi v prav vse strani. Pišite nam preko kontaktnega obrazca.
+
+### NESKONČNI SPISEK
+Pripravili smo vam seznam stvari, ki bi bile za nas zanimive in potrebne na potovanju. Hudomušno smo ga poimenovali Neskončni spisek. V kolikor posedujete izdelek in ga ne potrebujete, ga lahko podarite za dober namen. Pišite nam preko kontaktnega obrazca in obvestili vas bomo v zvezi z datumom predaje izdelka.
+
+### PROMOCIJA VAŠIH IZDELKOV
+Izdelujete izdelke in iščete nov način za predstavitev. Pišite nam preko kontaktnega obrazca in našli bomo skupno pot, bodisi izpostavimo vaš izdelek v enem od videov ali ga celo odpeljemo v Mongolijo*.
+* Izdelek mora ustrezati določenim kriterijem.
+
+### POKROVITELJSTVO NAKUPA VOZILA
+Iščemo vse možnosti za ugoden nakup vozila. V kolikor imate/poznate možnost za skupno sodelovanje, smo odprti za vse mogoče izide. Več o pogojih vozila najdete na tej povezavi. Naše podatke najdete v sklopu Pišite nam.
+
+

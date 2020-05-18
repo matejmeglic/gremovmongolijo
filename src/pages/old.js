@@ -28,14 +28,7 @@ export default function Home({data}) {
                 `}
               >
                 {node.frontmatter.title}{" "}
-                <span
-                  css={css`
-                    color: #bbb;
-                  `}
-                >
-                  — {node.frontmatter.date}
-                </span>
-              </h3>
+                </h3>
               <div  css={css`
                     text-align: justify;
                   `}>
