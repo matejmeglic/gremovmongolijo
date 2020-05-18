@@ -151,11 +151,11 @@ Iščemo vse možnosti za ugoden nakup vozila. V kolikor imate/poznate možnost 
 <a title="Trgovina Grašca" href="http://www.grasca.si/index.php" target="_blank"><img class="alignnone wp-image-1282" src="../images/Spon_grasca.jpg" alt="Spon_grasca" width="150" height="150"></a>
 <a title="Računovodstvo Cerklje" href="http://www.racunovodstvo-cerklje.si/" target="_blank"><img class="alignnone size-full wp-image-840" src="../images/Spon_racunovodstvocerklje.jpg" alt="Spon_racunovodstvocerklje" width="150" height="150"></a>
 <a title="Tovarna doma" href="http://tovarnadoma.si/" target="_blank"><img class="alignnone  wp-image-745" title="Tovarna doma" src="../images/Spon_tovarnadoma.jpg" alt="Spon_tovarnadoma" width="150" height="152"></a>
-<a title="Foto Cebron" href="http://foto.si/" target="_blank"><img class="alignnone wp-image-929" src="http://gremovmongolijo.com/wp-content/uploads/2014/03/Spon_fotocebron.jpg" alt="Spon_fotocebron" width="150" height="150"></a>
+<a title="Foto Cebron" href="http://foto.si/" target="_blank"><img class="alignnone wp-image-929" src="../images/Spon_fotocebron.jpg" alt="Spon_fotocebron" width="150" height="150"></a>
 <a href="http://www.mamut4x4.com/"><img class="alignnone  wp-image-1021" title="Mamut 4x4" src="../images/Spon_mamut_4x4.jpg" alt="Spon_mamut_4x4" width="150" height="150"></a>
 <a title="JS-Design" href="http://js-design.si/js-oblikovanje/" target="_blank"><img class="alignnone wp-image-1066" src="../images/Spon_jsoblikovanje.jpg" alt="Spon_jsoblikovanje" width="150" height="150"></a>
 <a title="Sledenje.com" href="http://www.sledenje.com" target="_blank"><img class="alignnone wp-image-1180" src="../images/Spon_sledenje.jpg" alt="Spon_sledenje" width="150" height="150"></a>
-<a title="Jure Pirc - Ujeti trenutek" href="http://www.ujeti-trenutek.com" target="_blank"><img class="alignnone wp-image-1143" src="http://gremovmongolijo.com/wp-content/uploads/2014/04/ujeti_trenutek_logo.jpg" alt="ujeti_trenutek_logo" width="150" height="150"></a>
+<a title="Jure Pirc - Ujeti trenutek" href="http://www.ujeti-trenutek.com" target="_blank"><img class="alignnone wp-image-1143" src="../images/ujeti_trenutek_logo.jpg" alt="ujeti_trenutek_logo" width="150" height="150"></a>
 <a href="../images/Spon_Amstep.jpg"><img class="alignnone wp-image-1279" src="../images/Spon_Amstep.jpg" alt="Spon_Amstep" width="150" height="150"></a>
 <a title="Simfonični orkester Cantabile" href="http://www.cantabile.si/" target="_blank"><img class="alignnone wp-image-1280" src="../images/Spon_cantabile.jpg" alt="Spon_cantabile" width="150" height="150"></a>
 <a title="KUD Predoslje" href="http://kud-predoslje.si/" target="_blank"><img class="alignnone wp-image-1283" src="../images/Spon_KUDPredoslje.jpg" alt="Spon_KUDPredoslje" width="150" height="150"></a>
@@ -164,7 +164,7 @@ Iščemo vse možnosti za ugoden nakup vozila. V kolikor imate/poznate možnost 
 <a title="Prevozi Oblak" href="http://www.prevozioblak.si/" target="_blank"><img class="alignnone wp-image-1287" src="../images/Spon_oblak.jpg" alt="Spon_oblak" width="150" height="150"></a>
 <a title="Potnik.si - revija za popotnike" href="http://www.potnik.si/" target="_blank"><img class="alignleft wp-image-1229" src="../images/Spon_potnik_si.jpg" alt="Spon_potnik_si" width="150" height="150"></a>
 <a title="Portal Trzic.net" href="http://www.trzic.net/" target="_blank"><img class="alignnone wp-image-1289" src="../images/Spon_Trzicnet.jpg" alt="Spon_Trzicnet" width="150" height="150"></a>
-<a href="http://gremovmongolijo.com/wp-content/uploads/2014/05/Spon_kmetijahribar.jpg"><img class="alignnone wp-image-1305" src="http://gremovmongolijo.com/wp-content/uploads/2014/05/Spon_kmetijahribar.jpg" alt="Spon_kmetijahribar" width="150" height="150"></a>
+<a href="../images/Spon_kmetijahribar.jpg"><img class="alignnone wp-image-1305" src="../images/Spon_kmetijahribar.jpg" alt="Spon_kmetijahribar" width="150" height="150"></a>
 <a title="Gostilnica in pizzerija Pod Jenkovo Lipo" href="http://www.podjenkovolipo.si/" target="_blank"><img class="alignnone wp-image-1316" src="../images/Spon_podjenkovolipo.jpg" alt="Spon_podjenkovolipo" width="150" height="150"></a>
 <a title="Pihalni orkester Tržič" href="http://www.po-trzic.si" target="_blank"><img class="alignnone wp-image-1502" src="../images/SPON_POT.jpg" alt="SPON_POT" width="150" height="150"></a>
 <a href="../images/SPON_Psarna.jpg"><img class="alignnone wp-image-1503" src="../images/SPON_Psarna.jpg" alt="SPON_Psarna" width="150" height="150"></a>
