@@ -3,10 +3,12 @@ import { Link, graphql } from "gatsby"
 import { css } from "@emotion/core"
 import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
+import pic from "../contents/images/19.jpg"
 
 export default function Home({data}) {
     return (
       <Layout>
+        <img src={pic} alt="Gremo v Mongolijo" title="Gremo v Mongolijo" />
         <div>
             <div>
            <a href="https://github.com/matejmeglic/gremovmongolijo/raw/master/src/contents/misc/Mongolia_2014BPv11.pdf">Poslovni načrt projekta.</a> <br /><br />

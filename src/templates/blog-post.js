@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
+import SEO from "../components/seo"
 
 import Layout from "../components/layout"
 import { rhythm } from "../utils/typography"
@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-
+        <SEO title={post.frontmatter.title} description={post.excerpt} />
         <header>
           <h1
             style={{

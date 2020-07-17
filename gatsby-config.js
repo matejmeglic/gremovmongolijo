@@ -7,6 +7,8 @@
 module.exports = {
   siteMetadata: {
     title: `Gremo v Mongolijo - Mongolia Charity Rally 2014`,
+    description: `Dobrodelna odprava Matej Meglič - Katja Kern iz Slovenije v Mongolijo`,
+    author: `Matej Meglic`,
   },
   plugins: [
     {
@@ -44,5 +46,24 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Gremo v Mongolijo 2014`,
+        short_name: `Gremo v Mongolijo`,
+        start_url: `/`,
+        background_color: `#6b37bf`,
+        theme_color: `#6b37bf`,
+        display: `standalone`,
+        icon: `src/contents/images/19-300x200.jpg`, 
+      },
+    },
+
+    `gatsby-plugin-offline`,
+
+    `gatsby-plugin-react-helmet`,
+
+
   ],
 }
